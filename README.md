@@ -33,7 +33,7 @@ The following regression models are implemented or planned in this project:
 
 - Linear Regression
 - Ridge Regression
-- Lasso Regression (upcoming)
+- Lasso Regression 
 - ElasticNet Regression (upcoming)
 
 Each model is implemented in a separate Jupyter Notebook for clarity and comparison.
